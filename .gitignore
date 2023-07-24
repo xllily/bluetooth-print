@@ -29,3 +29,6 @@ coverage
 
 logs/
 tests_output/
+
+*.zip
+*.rar
